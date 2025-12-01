@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I’m Krishna Bansal  
 
-<!--
-**krishnabansal2005/krishnabansal2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 Aspiring Software Developer | Java & Spring MVC, Spring BOOT Enthusiast  
 
-Here are some ideas to get you started:
+- 💻 Skilled in Core Java, Advanced Java, Spring MVC, Spring BOOT  
+- 🧑‍🎓 BCA 4th Sem Student passionate about backend development  
+- 🔧 Currently building projects like **Employee Management System**, **Product Management System**  
+- 🌱 Learning Spring Boot, REST APIs  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills & Tools  
+Java · Spring MVC . Spring Boot · JDBC / MySQL· Eclipse IDE · Git / GitHub  
+
+---
+
+### 📫 Connect with me  
+[LinkedIn](https://www.linkedin.com/in/krishna-bansal21) · krishnamukeshbansal2005@gmail.com  
+
+---
+
+### ⚡ Fun Facts  
+- 🎵 I enjoy listening to music  
+- 🏏 I love playing cricket  
