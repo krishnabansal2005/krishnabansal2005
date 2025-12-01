@@ -1,16 +1,16 @@
 # 👋 Hi, I’m Krishna Bansal  
 
-## 🎯 Aspiring Software Developer | Java & Spring MVC, Spring BOOT Enthusiast  
+## 🎯 Aspiring Software Developer | Java, Spring MVC & Spring Boot Enthusiast  
 
-- 💻 Skilled in Core Java, Advanced Java, Spring MVC, Spring BOOT  
+- 💻 Skilled in Core Java, Advanced Java, Spring MVC, SPring Boot  
 - 🧑‍🎓 BCA 4th Sem Student passionate about backend development  
-- 🔧 Currently building projects like **Employee Management System**, **Product Management System**  
+- 🔧 Currently building projects based on CRUD Operations like **Employee Management System**, **Product Management System**  
 - 🌱 Learning Spring Boot, REST APIs  
 
 ---
 
 ### 🛠️ Skills & Tools  
-Java · Spring MVC . Spring Boot · JDBC / MySQL· Eclipse IDE · Git / GitHub  
+Java · Spring MVC . Spring Boot · JDBC / MySQL · Eclipse IDE · Git / GitHub  
 
 ---
 
