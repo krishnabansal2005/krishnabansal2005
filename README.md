@@ -2,7 +2,7 @@
 
 ## 🎯 Aspiring Software Developer | Java, Spring MVC & Spring Boot Enthusiast  
 
-- 💻 Skilled in Core Java, Advanced Java, Spring MVC, SPring Boot  
+- 💻 Skilled in Core Java, Advanced Java, Spring MVC, Spring Boot  
 - 🧑‍🎓 BCA 4th Sem Student passionate about backend development  
 - 🔧 Currently building projects based on CRUD Operations like **Employee Management System**, **Product Management System**  
 - 🌱 Learning Spring Boot, REST APIs  
